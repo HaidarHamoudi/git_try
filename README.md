@@ -1,3 +1,3 @@
 # Git try
 
-Just a try
+Just an experiment

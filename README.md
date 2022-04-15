@@ -1,4 +1,3 @@
 # Git try
-
-Just an experiment
-
+Just a try !!! <<<<<<< feature-readme-instructions
+Just a try !!! >>>>>>> master

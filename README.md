@@ -2,6 +2,4 @@
 
 Just an experiment
 
-## Local Development
-
-Nothing
+gi
